@@ -11,6 +11,7 @@
 
 ###### header 6
 
+
 I just **love** the fact that I am practicing extra **here** . 
 
 Isn't that a __good__ start to get **better** at it?
@@ -19,11 +20,12 @@ Love**is**definitely**bold**
 
 _why_ should I start _working_?
 
->> *just* working a *little* wouldn't be *enough*
+* *just* working a *little* wouldn't be *enough*
 
->>> ***why*** not?
+* ***why*** not?
 
 
 
-Line2
-Line3 
+- Line2
+
+- Line3 
